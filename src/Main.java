@@ -6,5 +6,9 @@ public class Main {
                     System.out.println(" Итерация цикла " + i);
 
             }
+                //task 2
+        for (int i = 10; i>=1 ; i--) {
+            System.out.println(" Итерация цикла " + i);
+        }
         }
     }
